@@ -1,0 +1,795 @@
+/***********************************global margin css***********************************/
+.margin-z{margin:0px !important; }
+.margin-10{margin:10px!important}
+.marginbot-0{margin-bottom:0px!important}
+.margintop-0{margin-top:0px!important}
+.marginleft-0{margin-left:0px!important}
+.marginright-0{margin-right:0px!important}
+.marginbot-5{margin-bottom:5px!important}
+.marginbot-7{margin-bottom:7px!important}
+.margintop-5{margin-top:5px!important}
+.marginleft-5{margin-left:5px!important}
+.marginright-5{margin-right:5px!important}
+.marginbot-10{margin-bottom:10px!important}
+.margintop-10{margin-top:10px!important}
+.marginleft-10{margin-left:10px!important}
+.marginleft-15{margin-left:15px!important}
+.margintop-15{margin-top:15px!important}
+.marginleft-etn{margin-left:18px!important}
+.marginright-10{margin-right:10px!important}
+.marginbot-20{margin-bottom:20px!important}
+.marginbot-25{margin-bottom:25px!important}
+.margintop-20{margin-top:20px!important}
+.marginleft-20{margin-left:20px!important}
+.marginright-20{margin-right:20px!important}
+.marginbot-30{margin-bottom:30px!important}
+.margintop-30{margin-top:30px!important}
+.marginleft-30{margin-left:30px!important}
+.marginleft-35{margin-left:35px!important}
+.marginright-30{margin-right:30px!important} 
+.marginbot-40{margin-bottom:40px!important}
+.margintop-40{margin-top:40px!important}
+.marginleft-40{margin-left:40px!important}
+.marginright-40{margin-right:40px!important}
+
+/***********************************global margin css end***********************************/
+
+
+/***********************************global padding css***********************************/
+.padding-0{padding:0px!important}
+.paddingbot-0{padding-bottom:0px!important}
+.paddingtop-0{padding-top:0px!important}
+.paddingleft-0{padding-left:0px!important}
+.paddingright-0{padding-right:0px!important}
+.paddingbot-5{padding-bottom:5px!important}
+.paddingtop-5{padding-top:5px!important}
+.paddingleft-5{padding-left:5px!important}
+.paddingright-5{padding-right:5px!important}
+.paddingbot-10{padding-bottom:10px!important}
+.paddingbot-36{padding-bottom:36px!important}
+.paddingtop-10{padding-top:10px!important}
+.paddingleft-10{padding-left:10px!important}
+.paddingright-10{padding-right:10px!important}
+.paddingleft-15{padding-left:15px!important}
+.paddingright-15{padding-right:15px!important}
+.padding-15{padding:15px !important;}
+.padding-10{padding:10px !important;}
+.paddmid {padding:5px 12px !important;}
+.paddmidlf {padding:5px 30px !important;}
+.marginmid-10 {margin:0 10px !important;}
+/***********************************global padding css end***********************************/
+
+
+/***********************************global border css***********************************/
+.border-left-none{border-left:none!important;}
+.border-right-none{border-right:none!important;}
+.border-top-none{border-top:none!important;}
+.border-bottom-none{border-bottom:none!important;}
+.border-right-grey{border-right:1px solid #ccc;}
+.font-normal{font-weight:normal!important;}
+/* .inner_container {min-height:550px;} */
+.font16 {font-size:16px !important;}
+.transparent {background:transparent !important;}
+.text-center {margin:0 auto !important; text-align:center;}
+.border-none{border:none!important;}
+.text-right{text-align:right;}
+
+/***********************************global border css***********************************/
+
+/* operator user header css start */
+.operatoruser-container .black-strip {background:#000; padding:5px 0px; color:#fff;}
+.operatoruser-container .black-strip .form-inline{margin-bottom:0px;}
+.operatoruser-container .black-strip .btn-transparent{border:solid 1px #fff!important; background:none!important;}
+.operatoruser-container .black-strip select{background:none!important; border:solid 1px #fff; color:#fff;}
+.operatoruser-container .gray-strip{background:#428bca; padding:0px; border-bottom:1px solid;height: 36px;}
+.operatoruser-container .gray-strip .navbar{margin-bottom:0px;}
+.operatoruser-container .gray-strip .navbar-default{background:none; border:none;}
+.operatoruser-container .gray-strip .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{color:white;height: 35px;}
+/* .manager-nav:hover .dropdown-toggle {background-color:#f68b2b;} */
+.manager-nav li:hover .reports-icon-bg {
+    background: #000;}
+ .manager-nav li:hover .reports-icon{ color: #FFF;}
+ .manager-nav li:hover a{color:#000 !important;}
+ .manager-nav a{line-height:15px !important;}
+.operatoruser-container .gray-strip
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus
+{background:#f68b2b; color:#000;}
+.operatoruser-container .gray-strip .navbar-nav > li > a
+{padding:10px 20px; margin-right:1px; font-family:sans-serif; font-size:12px; color:#FFF; transition:all 0.65s ease 0s;}
+.operatoruser-container .gray-strip .navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus
+{background:#4388cd; color:#fff;}
+.operatoruser-container .gray-strip .navbar-nav > li{float:left; border-right:0 none;}
+.operatoruser-container .gray-strip .navbar{min-height:auto!important;}
+.operatoruser-container .gray-strip .navbar-collapse{padding:0px;}
+.operatoruser-container .gray-strip .btn-transparent{border:solid 1px #767676!important; background:none; padding:2px 12px!important; 
+margin-top:7px; transition:all 0.65s ease 0s;}
+.operatoruser-container .gray-strip .btn-transparent:hover {background:#F68B2B;}
+.operatoruser-container .white-strip{padding:20px 0px;}
+.operatoruser-container .white-strip .btn-green{background:#499400!important; color:#fff;  font-family: 'arial, sans-serif';}
+.btn-green a {color:#fff;}
+.btn-green a:hover {color:#000;}
+.operatoruser-container .white-strip .btn-green:hover{color:#000;}
+.operatoruser-container .white-strip .btn-tab {color:#333;}
+.operatoruser-container .white-strip .btn-list.active {background:#949494; color:#fff;}
+/* .form-inline .form-group {display:block;} */
+.white-strip .form-inline .form-group label {font-weight:normal;}
+.white-strip .form-inline .form-group .form-control {/* width:50%; */ height:30px; padding:4px 12px; border-radius:6px;}
+.navbar-top-links li:last-child {margin-right:0px;}
+.white-strip .navbar-top-links .dropdown-user {top:38px;}
+.manager-nav li a {color:#333; padding:10px 15px; min-height:auto;}
+.manager-nav li:hover .dropdown-menu {border-radius:0px; padding:0;}
+.manager-nav li:hover .dropdown-menu > li > a {padding:10px 20px;}
+.manager-nav li:hover .dropdown-menu .divider {margin:0;}
+/* operator user header css end */
+
+
+
+
+
+
+/******************Order Management ********************/
+.order_mgnt .panel-body{border:1px solid #a2a2a2; margin-bottom:20px; background-color:#f5f5f5; font-family:'Roboto-Regular';}
+.order_mgnt .col-md-2 img{border :1px solid #ccc; padding:10px; background-color:#fff;}
+.order_mgnt .fa{color:#929292; font-size:18px;}
+
+/*************Manage Menu ************/
+.my-favtr{margin-top:0px; font-size:20px; color:#000;}
+.branchdetails #accordion {width:100%;}
+.branchdetails .panel-group .panel{border-radius:0px;}
+.branchdetails .panel-default > .panel-heading { background-color: #4388cc; color: #fff; font-weight:bold;}
+.branchdetails .panel-heading3 { background: -webkit-linear-gradient(#fff, #eaeaea); 
+  background: -o-linear-gradient(#fff, #eaeaea); 
+  background: -moz-linear-gradient(#fff,#eaeaea); 
+  background: linear-gradient(#fff,#eaeaea);}
+.branchdetails .panel-heading3 h1{ padding:15px; font-size:22px; margin:0px;  color: #000; font-family: 'arial, sans-serif';}
+.branchdetails .panel-title{ font-weight:bold; font-size:14px; line-height:18px; padding:0; float:left; position:relative; color:#fff; margin:0; width:45%; text-align:left} 
+.branchdetails #accordion .panel .panel-heading .fa {color:#fff; border-radius:0px;}
+.branchdetails #accordion .panel .panel-heading [data-toggle="collapse"]:after {
+        font-family: 'FontAwesome';
+        content: "\f146"; /* "play" icon */
+        /* float: right; */
+		padding:0 10px 0 0;
+        color: #fff;
+        font-size: 21px;
+		/* position:relative; */
+		/* top:-4px; */
+		/* border:1px solid #b1b1b1; */
+		border-radius:0;
+        line-height: 20px;
+        /* rotate "play" icon from > (right arrow) to down arrow */
+        /* -webkit-transform: rotate(-180deg);
+        -moz-transform: rotate(-180deg);
+        -ms-transform: rotate(-180deg);
+        -o-transform: rotate(-180deg);
+        transform: rotate(-180deg); */
+		/* position:absolute; right:44px; */
+		float:left;
+    }
+
+.branchdetails #accordion .panel .panel-heading [data-toggle="collapse"].collapsed:after {
+        /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+		 font-family: 'FontAwesome';
+        content: "\f0fe";
+        color: #fff;
+    }
+
+
+.branchdetails .panel-group2 .panel2{border-radius:0px;}
+.branchdetails .panel-default2 > .panel-heading2 { background-color: #4388cc; color: #fff; font-weight:bold;}
+.branchdetails .panel-title2{ font-weight:bold; font-size:14px;} 
+.branchdetails h6, .h6{font-weight:bold; font-size:14px; color:#000;padding:0px;margin:0px}
+.cancelrequest{background-color:#f0f0f0; box-shadow: 0px 0px 7px #c2c2c2; -moz-box-shadow: box-shadow: 0px 0px 7px #c2c2c2; -webkit-box-shadow: 0px 0px 7px #c2c2c2; border:1px solid #ccc; border-radius:5px; padding:8px;margin:10px;font-family: 'arial, sans-serif';}
+.cancelrequest:hover{color:#eb9241;}
+.review{}
+.greybox  label{padding:10px; border-radius:5px; font-size:12px; color:#000; box-shadow: 0px 0px 7px #c2c2c2; -moz-box-shadow: box-shadow: 0px 0px 7px #c2c2c2; -webkit-box-shadow: 0px 0px 7px #c2c2c2; background-color:#fff; margin:10px 20px 10px 0px;}
+.quantity-remove, .quantity-add {cursor: pointer;}
+.quantity-add.glyphicon, .quantity-remove.glyphicon { display: block;cursor: pointer;}
+.branchdetails .panel-heading{ border-top-left-radius: 0px;border-top-right-radius: 0px;}
+.branchdetails .panel{box-shadow:0px; border-radius:0px;}
+.branchdetails .panel-body{padding:10px 20px;}
+
+.branchdetails .close{background: transparent none repeat scroll 0 0; text-align:left; border:1px solid #ccc;cursor: pointer;padding: 5px; margin-top:10px; width:100%;}
+.branchdetails .close2{ text-align:right; cursor: pointer; background:transparent;  font-family: 'Roboto-Regular'; text-align:right; float:right; font-weight:bold; border:0px;  color:#6b6b6b; font-size:17px;}
+.branchdetails .close3{background: transparent none repeat scroll 0 0; text-align:left; border:1px solid #ccc;cursor: pointer;padding: 2px 5px; margin-top:10px; width:100%;}
+.account-sumry2 { background-color: #fff;border: 1px solid #a2a2a2; margin: 15px; position:relative; /* padding:10px; */}
+.account-sumry .account-sumry3 {border:1px solid #ccc; margin-bottom:20px; position:relative;}
+.account-sumry .account-sumry3 h5 { text-align:center; margin-top:20px;}
+.account-sumry .account-sumry3 h4 { text-align:center; padding:20px 0;}
+.choicebox {border:1px solid #ddd; padding:5px; margin:10px 0;}
+.choicebox span {padding-right:4px; float:left;}
+.choicebox .icon {float:right; margin-left:5px; font-size:14px;cursor: pointer;}
+
+/* .account-sumry .account-sumry3:hover + .showico{display:block;} */
+
+
+.greyline{border-bottom:1px solid #cdcdcd; margin:10px 0px;}
+.greybox{border:1px solid #cacaca; margin-bottom:30px;}
+.branchdetails h5, .h5{ font-size:18px; font-weight:normal; color:#000;padding:30px 0px 0px;margin:0px auto; text-align:center; font-family: 'Roboto-Light'; }
+.branchdetails h4, .h4{ font-size:22px; color:#000;padding:15px 0px 30px;margin:5px auto; font-family: 'arial, sans-serif'; text-align:center;}
+.branchdetails .account-sumry2 .center .input-group .input-group-btn .glyphicon-plus {font-size:14px; line-height:14px;}
+.branchdetails .account-sumry2 .center .input-group .input-group-btn .minusbox {border-radius:4px 0px 0px 4px;}
+/* faq css start */
+
+
+
+.faqHeader {
+        font-size: 27px;
+        margin: 20px;
+    }
+
+.cms_container .panel-heading [data-toggle="collapse"]:after {
+        font-family: 'FontAwesome';
+        content: "\f13a"; /* "play" icon */
+        float: left;
+		padding-left:5px;
+        color: #b1b1b1;
+        font-size: 22px;
+        line-height: 22px;
+        /* rotate "play" icon from > (right arrow) to down arrow */
+        -webkit-transform: rotate(-180deg);
+        -moz-transform: rotate(-180deg);
+        -ms-transform: rotate(-180deg);
+        -o-transform: rotate(-180deg);
+        transform: rotate(-180deg);
+    }
+
+.cms_container .panel-heading [data-toggle="collapse"].collapsed:after {
+        /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+		 font-family: 'FontAwesome';
+        content: "\f139";
+        color: #b1b1b1;
+    }
+	
+/* .account-sumry2 .input-group-btn .btn2{padding:2px 6px;}	
+.account-sumry2 .form-control.input-number{padding:2px 6px; height:auto;} */
+.account-sumry .input-group-btn .btn2{padding:2px 6px;}	
+.account-sumry .form-control.input-number{padding:2px 6px; height:26px; text-align:center;}
+.AddMenuCatItemForm_101 .account-sumry .form-control.input-number{padding:2px 6px; height:26px; text-align:center;}
+.account-sumry label{text-align:left!important;}
+.account-sumry .form-control {border-radius:0px}
+
+.additem .sbHolder{width:auto; height:34px; font-size:14px;}
+.additem .sbOptions{width:100%;}
+.additem .sbSelector:link, .sbSelector:visited, .sbSelector:hover{color:#555; font-family: 'Roboto-Light'}
+.additem .sbSelector{top:-2px;}
+.checkbox label::before {background:transparent!important; border:solid 1px #fff!important;}
+.additem .checkbox label::after{color:#fff!important; }
+/*************Manage Menu ************/	
+
+/********* branch details*************/	
+.branchdetails{margin:0px;}
+.branchdetails .label2 {text-align:left; color:#000; font-weight:normal; width:180px;/* background: url('../images/dot.png')no-repeat right; */ }
+.branchdetails .label3{ text-align:left; font-weight:normal; background: url('../images/dot2.png')no-repeat right; width:100%;}
+.branchdetails .form-control-static{margin-bottom:5px; padding:0px;width:100%; }
+.branchdetails .btn-default{/*background-color:#bababa; */margin:0px 3px;}
+.branchdetails .btn-default2{background-color:#949494; margin:0px 3px; color:#fff; font-weight:normal;}
+/* .branchdetails .btn{padding:4px 10px;} */
+.branchdetails .btn2{padding:6px 10px;}
+.branchdetails .open{color:#408201;  font-family: 'arial, sans-serif'}
+.branchdetails .busy{color:#de0000;  font-family: 'arial, sans-serif'}
+.branchdetails .open-text{color:#408201;  font-family: 'arial, sans-serif'}
+.branchdetails .busy-text{color:#de0000;  font-family: 'arial, sans-serif'}
+.branchdetails .close-text{color:#000;  font-family: 'arial, sans-serif'}
+.form-control-static span{width:250px; float:right}
+.branchdetails .col-sm-2{/**/}
+.account-sumry{margin:0px;padding:20px; background-color: #fff; border:1px solid #a2a2a2;}
+.account-sumry h3{margin:11px 0px 0px 5px; padding:0px; font-size:15px; }
+.branchdetails .greybtn{background-color:#bababa; border-color: #bababa;}
+.branchdetails .bluebtn{background-color:#4388cc !important; border-color: #4388cc !important; color:#fff;}
+.account-sumry h2{font-family: 'arial, sans-serif'}
+.restoinfo{font-family: 'arial, sans-serif'; font-size:15px; margin-bottom:20px;}
+.restoinfo span{color:#999;}
+.restoinfo label{text-align:left!important; font-weight:normal!important;}
+.restoinfo p{margin-top:7px;}
+.restoinfo .form-group{margin-bottom:0px;}
+.branchdetails .panel-title a i{color:#fff; margin-left:5px;}
+.account-sumry2 a i{color:#6b6b6b; margin-left:11px; font-size:18px;}
+/********* branch details*************/
+
+.menumanagement .panel-group .panel{border:solid 1px #a2a2a2;}
+.menumanagement .panel-group .panel-heading{padding:10px;}
+.menumanagement .panel-group .panel{margin-top:10px;}
+
+/*********** Add Branch Page CSS Here ********/
+.branchdetails .dl-horizontal dt {text-align:left; width:25%; line-height:32px;}
+.branchdetails .dl-horizontal dd {float:left; margin-left:0px;}
+.branchdetails .dl-horizontal dd .sbOptions {width:470px; z-index:999;}
+.branchdetails .dl-horizontal dd .sbOptions a {padding: 5px 0 5px 10px;}
+.branchdetails .dl-horizontal dd.small {margin-right:20px; font-size:16px; line-height:36px; color:#000; position:relative;}
+.branchdetails .dl-horizontal dd.small .sbHolder {width:160px;}
+.branchdetails .dl-horizontal dd.small .sbOptions {width:160px;}
+.branchdetails .dl-horizontal dd.small .sbOptions a {padding: 0px 0 0px 10px;}
+
+.branchdetails .dl-horizontal dd.small .spinner {width: 72px;}
+.branchdetails .dl-horizontal dd.small .spinner input {text-align: left;}
+.branchdetails .dl-horizontal dd.small .form-control {height:38px;}
+.branchdetails .dl-horizontal dd.small .spinner .form-control {height:38px; font-size:16px; box-shadow:none;}
+.branchdetails .dl-horizontal dd.small textarea.form-control {height:auto;}
+.branchdetails .dl-horizontal dd.small .spinner .input-group-btn-vertical .btn {border-left:0 none; margin-left:-21px; z-index:2; 
+padding:0 20px 0 10px;}
+.branchdetails .dl-horizontal dd.small .spinner .input-group-btn-vertical .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {background:none; border-color:#ccc;}
+.branchdetails .dl-horizontal dd.small .input-group-btn-vertical {position: relative; white-space: nowrap; width: 1%; vertical-align: middle;
+  display: table-cell;}
+.branchdetails .dl-horizontal dd.small .input-group-btn-vertical > .btn {display: block; float: none; width: 100%; max-width: 100%; padding: 8px;
+  margin-left: -1px; position: relative; border-radius: 0;}
+.branchdetails .dl-horizontal dd.small .input-group-btn-vertical > .btn:first-child {border-top-right-radius: 0px; border-bottom:0 none;}
+.branchdetails .dl-horizontal dd.small .input-group-btn-vertical > .btn:last-child {margin-top: -4px; border-bottom-right-radius: 0px; 
+border-top:0 none;}
+.branchdetails .dl-horizontal dd.small .input-group-btn-vertical i{position: absolute; top: 0; left: 4px;}
+.branchdetails .dl-horizontal dd .bluebtn {line-height: 18px; padding: 2px 14px 4px !important;}
+.width_80 {width:80px !important;}
+.branchdetails .dl-horizontal dd .checkbox input[type="checkbox"] {opacity:1;}
+.branchdetails .dl-horizontal dd.small .spinner .btnup-arrow {background: url('../images/icon/up_arrow.png') center no-repeat; border:0 none; position:absolute; top:-6px; right:-2px; z-index:9;}
+.branchdetails .dl-horizontal dd.small .spinner .btndown-arrow {background: url('../images/icon/down_arrow.png') center no-repeat; border:0 none; position:absolute; bottom:-6px; right:-2px; z-index:9;}
+.branchdetails .dl-horizontal dd.small .spinner .btn:active, .btn.active {box-shadow:none;}
+.branchdetails .dl-horizontal dd.small .error {line-height:14px;}
+.offers .dl-horizontal dt {line-height: 32px;text-align: left;width: 35%;}
+
+/*************** For Arabic Style ****************/
+.arabic {direction:rtl;}
+.arabic .dl-horizontal dt {float:right; text-align:right;}
+.arabic .dl-horizontal dd {float:right;}
+.text-right {text-align:right !important;}
+
+/************* For Datepicker (hide time) ***************/
+.xdsoft_datetimepicker .xdsoft_datepicker.active + .xdsoft_timepicker {display:none;}
+
+/*********** Manage Branches Page CSS Here **********/
+.managebranch {background:#fff; border:1px solid #a2a2a2; margin:0 0 30px; padding:20px;}
+.managebranch .status-open {color:#009901; font-size:14px; text-align:right;}
+.managebranch .status-closed {color:#FE0000; font-size:14px; text-align:right;}
+.managebranch .status-busy {color:#FE9901; font-size:14px; text-align:right;}
+.managebranch .fa-circle { margin-right:10px;}
+.managebranch h3 {font-family:"Roboto-Regular"; font-size:20px; color:#000; text-align:center; margin:5px 0 20px;}
+.managebranch dl {color:#000; margin-bottom:15px;}
+.managebranch dl dt {width:54%; float:left; margin-right:20px; font-family:"Roboto-Light"; font-size:16px; text-align:right; font-weight:normal;}
+.managebranch dl dd {width:42%; float:left; margin-left:0; font-family:"Roboto-Light"; font-size:16px; text-align:left;}
+.managebranch ul {list-style-type:none; padding:0; margin:0; width:67%; margin:0 auto;}
+.managebranch ul li {display:inline-block; float:left; padding:10px 20px; border-right:1px solid #999;}
+.managebranch ul li a {  color:#4388cd; font-family:"Roboto-Regular"; font-size:18px;}
+.managebranch ul li:last-child {border-right:0 none; padding-right:0;}
+.width_50 {width:470px;}
+
+
+/************************  managerbranch-popup css here  ***************************/
+.managerbranch-popup .modal-dialog {background:#fff; /**border:1px solid #999;*/ padding:20px; width:394px; margin:60px auto;}
+.managerbranch-popup .modal-content {background:none; border:0 none; border-radius:0px; box-shadow:none;}
+.managerbranch-popup .modal-content .modal-header {border-bottom:0 none; min-height: 16.4286px; padding:0;}
+.managerbranch-popup .modal-content .modal-header .modal-title {font-family:"arial, sans-serif"; font-size:22px; color:#fff; text-align:center;}
+.managerbranch-popup ul.sbOptions{width:100%; }
+.managerbranch-popup ul.sbOptions li{display:block; border-right:0px; width:100%; padding:0px}
+.managerbranch-popup ul.sbOptions li a{font-size:15px}
+.managerbranch-popup .modal-content .modal-body {padding-bottom:0;} 
+.managerbranch-popup .modal-content dl {color:#000; margin-bottom:20px;}
+.managerbranch-popup .modal-content dl dt {width:30%; float:left; margin-right:20px; font-family:"Roboto-Light"; font-size:16px; text-align:left; font-weight:normal;}
+.managerbranch-popup .modal-content dl dd {width:62%; float:left; margin-left:0; font-family:"Roboto-Light"; font-size:16px; text-align:left;}
+.managerbranch-popup .modal-content dl dd .sbHolder {width:200px; height:34px; border-radius:4px; -o-border-radius:4px; -moz-border-radius:4px;
+-webkit-border-radius:4px; border:1px solid #a7a7a7;}
+.managerbranch-popup .modal-content dl dd .sbToggle {height:32px; background: #adadad url(../images/select-icons2.png) 0 -116px no-repeat;}
+.managerbranch-popup .modal-content dl dd .sbToggle:hover{background: #adadad url(../images/select-icons2.png) 0 -167px no-repeat;}
+.managerbranch-popup .modal-content dl dd .sbToggleOpen{background: #adadad url(../images/select-icons2.png) 0 -16px no-repeat;}
+.managerbranch-popup .modal-content dl dd .sbToggleOpen:hover{background: #adadad url(../images/select-icons2.png) 0 -66px no-repeat;}
+.managerbranch-popup .modal-content dl dd .sbSelector {width:86%; height:32px; line-height:32px; color:#929292 !important;}
+.managerbranch-popup .modal-content dl dd .sbSelector:hover, .sbSelector:link, .sbSelector:focus {color:#000 !important; font-family:"Roboto-Regular";} 
+.managerbranch-popup .modal-content dl dd .btnblack {background:#4C4C4C !important; border:1px solid #4C4C4C !important;}
+.modal-backdrop.in {opacity:0.8 !important;}
+.modal-backdrop {background-color:#fff !important;}
+#edituserinfo .dl-horizontal dt {float: left; padding-right: 20px; text-align: left; width: 120px;}
+#edituserinfo .dl-horizontal dd .form-control {}
+
+
+/*********** Manage Restaurent Info Page CSS Here **********/
+.btn-white{background:#fff; color:#000; padding:5px 20px}
+.minus-margin{margin-top:-5px; margin-right:-15px;}
+
+.menuchoicecontainer .panel-heading [data-toggle="collapse"]:after {
+        font-family: 'FontAwesome';
+        content: "\f068"; /* "play" icon */
+        float: left;
+        color: #a2a2a2;
+        font-size: 12px;
+		margin-right:10px;
+        line-height: 14px;
+		border:solid 1px #a2a2a2; padding:3px 5px;	
+    }
+
+.menuchoicecontainer .panel-heading [data-toggle="collapse"].collapsed:after {      
+        color: #a2a2a2;
+		font-family: 'FontAwesome';
+        content: "\f067"; /* "play" icon */
+        float: left;       
+        font-size: 12px;
+		margin-right:10px;
+        line-height: 14px;	
+		border:solid 1px #a2a2a2; padding:3px 5px;			
+    }
+
+.menuchoicecontainer .panel-default > .panel-heading{background:#fff; border-radius:0px; border:solid 1px #a2a2a2; margin-bottom:10px; }	
+.menuchoicecontainer .panel-group .panel{border-radius:0px; border:none!important;}
+.menuchoicecontainer .panel-default > .panel-heading + .panel-collapse > .panel-body{border:solid 1px #a2a2a2;}
+.panel-heading a i{color:#686868; font-size:20px; margin-left:5px;}
+.menuchoicecontainer .panel-body{padding:0px!important}
+.menuchoicecontainer .panel-body .table-new td {border-bottom:solid 1px #a2a2a2; border-top:0px!important; font-size:16px; padding:10px 15px;}
+.menuchoicecontainer .panel-body .table-new td a i{color:#686868; font-size:20px; margin-left:5px;}
+.menuchoicecontainer label{font-weight:normal;}
+.menuchoicecontainer .btn-group .btn-default.active{background-color: #4388cd; border-color: #4388cd; color: #fff;}
+.menuchoicecontainer .btn-group .btn-default:hover{background-color: #4388cd; border-color: #4388cd; color: #fff;}
+
+/* browse file button css start */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+/* browse file button css end */
+
+
+/* restaurant management page css */
+.account-sumry   h1,.h1{ font-family: 'Roboto-Regular'; font-weight:bold; color:#000; line-height:22px; font-size:18px; margin:0px;padding:0px;}
+.account-sumry   h5,.h5{ font-family: 'Roboto-Light'; text-align:left;  color:#000; font-size:18px; margin:5px 0px 10px 0px; padding:0px;}
+#datetimepicker,#datetimepicker2{background: url("../images/calender.png") no-repeat scroll 97% 5px; border:1px solid #ccc; background-color:#fff;border-radius:4px; width:100%;}
+/* .branchdetails span a{ font-family: 'Roboto-Light';background-color:#545454; padding:8px 11px; margin:-1px; color:#fff; text-decoration:none;}
+.branchdetails span a:hover{ font-family: 'Roboto-Light'; color:#fff; text-decoration:none;} */
+.branchdetails .greybtn{background-color:#bababa; border-color: #bababa;}
+.branchdetails input{height:34px;}
+.branchdetails .gradientbtn{ background: #2989d8; /* Old browsers */
+background: -moz-linear-gradient(top,  #dcdcdc 50%, #c3c3c3 51%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#dcdcdc), color-stop(51%,#c3c3c3)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); /* IE10+ */
+background: linear-gradient(to bottom,  #dcdcdc 50%,#c3c3c3 51%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dcdcdc', endColorstr='#c3c3c3',GradientType=0 );
+border-color:#c3c3c3; color:#000; text-transform:uppercase; /* IE6-9 */
+}
+
+/* .gradientbtn{ background: #2989d8; Old browsers
+background: -moz-linear-gradient(top,  #dcdcdc 50%, #c3c3c3 51%); FF3.6+
+background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#dcdcdc), color-stop(51%,#c3c3c3)); Chrome,Safari4+
+background: -webkit-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); Chrome10+,Safari5.1+
+background: -o-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); Opera 11.10+
+background: -ms-linear-gradient(top,  #dcdcdc 50%,#c3c3c3 51%); IE10+
+background: linear-gradient(to bottom,  #dcdcdc 50%,#c3c3c3 51%); W3C
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dcdcdc', endColorstr='#c3c3c3',GradientType=0 );
+border-color:#c3c3c3; color:#000; text-transform:uppercase; IE6-9
+} */
+.gradientbtn{
+	border: 1px solid #d1d1d1;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    color: #4B4B4B;
+    text-transform: capitalize;
+    background-color: #EDEDED;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#EDEDED), to(#B4B4B4));
+    background-image: -webkit-linear-gradient(top, #EDEDED, #B4B4B4);
+    background-image: -moz-linear-gradient(top, #EDEDED, #B4B4B4);
+    background-image: -ms-linear-gradient(top, #EDEDED, #B4B4B4);
+    background-image: -o-linear-gradient(top, #EDEDED, #B4B4B4);
+    background-image: linear-gradient(to bottom, #EDEDED, #B4B4B4);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#EDEDED, endColorstr=#B4B4B4);
+	}
+.gradientbtn:hover{
+	border: 1px solid #bababa;
+	color: #4B4B4B;
+    background-color: #d4d4d4;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#d4d4d4), to(#9b9b9b));
+    background-image: -webkit-linear-gradient(top, #d4d4d4, #9b9b9b);
+    background-image: -moz-linear-gradient(top, #d4d4d4, #9b9b9b);
+    background-image: -ms-linear-gradient(top, #d4d4d4, #9b9b9b);
+    background-image: -o-linear-gradient(top, #d4d4d4, #9b9b9b);
+    background-image: linear-gradient(to bottom, #d4d4d4, #9b9b9b);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#d4d4d4, endColorstr=#9b9b9b);
+}
+.reports-icon{
+	    font-size: 8px;
+    padding: 2px;
+    left: 2px;
+    top: 0px;
+    color: #3071a9;
+}
+.reports-icon-bg{
+	background: #fff;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.branchdetails .gradientbtn2{text-transform:capitalize;} 
+
+.gradientbtn-vieworder{
+	background: rgb(245, 130, 32) !important;
+    border-color: #fef5ee;
+    font-size: 12px;
+    padding: 0 2px 0 2px;
+    color: #FFF;
+    text-transform:capitalize;
+}
+.restaurant-table-td{text-align:center;padding: 5px 2px 5px 2px !important; font-family: sans-serif !important;}
+.restaurant-table-border{
+	padding: 5px;
+    background-color: rgb(237, 237, 237);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.restauranr-col-border{
+	    border: 1px solid #bdbec1;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-radius: 0px 0px 10px 10px;
+    border-top: 0;
+}
+
+.restaurant-table-border> table th{ background:rgb(237, 237, 237) !important;}
+.restaurant-table-border> table th:last-child{ border-right:0 !important;}
+.restaurant-table-border> table>thead > tr > th{border-right: 1px solid #ddd !important}
+.restaurant-table-border> table>tbody > tr > td{border-right: 1px solid #ddd !important}
+.restaurant-tables-container{background:#FFF}
+
+
+
+.restomanagement .btn-menu ul li{padding:0px!important; margin-left:-3px;}
+.restomanagement .btn-menu ul li .btn{font-family: 'arial, sans-serif';background-color:#545454; padding:10px 19px!important; color:#fff; text-decoration:none; border-radius:0px!important; border-right:solid 1px #ccc;} 
+.restomanagement .btn-menu ul li:last-child .btn {border-right:0 none;}
+.restomanagement .account-sumry .logobox {height:130px; width:100%; line-height:126px; text-align:center; overflow:hidden; border:1px solid #a2a2a2;}
+.restomanagement .account-sumry .logobox img {max-height:100%; max-width:100%; margin:0 auto;}
+.restomanagement .account-sumry .img-thumbnail{border-radius:0px; border:1px solid #a2a2a2; height:185px}
+.restomanagement .account-sumry .img-thumbnail .imgthumbnailtable{display:table; width:100%; height:100%; vertical-align:middle; text-align:center; table-layout:fixed}
+.restomanagement .account-sumry .img-thumbnail .imgthumbnailtablecell{display:table-cell; width:100%; height:100%; vertical-align:middle; text-align:center;}
+.check-icon{position:absolute; right:20px; top:4px; font-size:18px;}
+.resto-status {display: table!important; height:75px!important;}
+.resto-status p{display: table-cell!important; vertical-align: middle!important;}
+.showico-div{ display:none;}
+.branch1{cursor:pointer;}
+.showico-div{position:absolute; right:10px; top:4px; font-size:14px;}
+.branch1:hover .showico-div{display:block;}
+.branch1 .list-inline li{padding:2px}
+.restomanagement .account-sumry .imgbox {width:166px; height:182px; border:1px solid #a2a2a2; text-align:center; line-height:178px; overflow:hidden;}
+.restomanagement .account-sumry .imgbox img {max-width:100%; display:table-cell;}
+
+/* restaurant management page css end*/
+
+/****TAB Content for restaurantDashboard starts here***/
+.branchdetails .nav-tabs {margin: 0px; border:1px solid #a0a0a0;  /}/* Standard syntax (must be last) */ 
+.branchdetails .nav-tabs > li {width:389.6px; border-right:1px solid #a0a0a0;background: -webkit-linear-gradient(#dfdfdf,#fff); /* For Safari 5.1 to 6.0 */ margin-bottom:0;
+    background: -o-linear-gradient(#dfdfdf,#fff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#dfdfdf,#fff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#dfdfdf,#fff); border-radius:0px}
+.branchdetails .nav-tabs > li > a {border:0 none; margin-right:0; font-weight:bold; text-align:center; color: #000;padding:13px 1px !important; word-wrap:break-word;}
+.branchdetails .nav-tabs > li > a > i { color: #a6a6a6;}
+.branchdetails .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {border-bottom: 4px solid #fbcdcf;}
+.branchdetails .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+  border: 0;background: none !important;color: #333333;}
+.branchdetails .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background:transparent }
+  .branchdetails .nav-tabs > li > a:hover{background:#f68b2b}
+.branchdetails .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {color: #a6a6a6;}
+.branchdetails .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+  margin-top: 0px;}
+.branchdetails .nav-tabs > li.active { position: relative; background:#4388cd; }
+.branchdetails .nav-tabs > li.active > a {font-weight:bold;  font-family: 'Roboto-Light'; border: 0;color:#fff;}
+.branchdetails .nav-tabs > li.active > a > i {color: #404040;}
+
+.branchdetails .tab-content {padding-bottom: 0; border-left:1px solid #cacaca; border-right:1px solid #cacaca; border-bottom:1px solid #cacaca}
+/****Tab Content for restaurantDashboard ends here***/
+
+/****TAB Content for coAdminDashboard starts here***/
+.coAdminDashboard .branchdetails .nav-tabs {margin: 0px; border:1px solid #a0a0a0;  /}/* Standard syntax (must be last) */ 
+.coAdminDashboard .branchdetails .nav-tabs > li {width:auto; padding:0 5.90px; border-right:1px solid #a0a0a0;
+background: -webkit-linear-gradient(#dfdfdf,#fff); /* For Safari 5.1 to 6.0 */ margin-bottom:0;
+    background: -o-linear-gradient(#dfdfdf,#fff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#dfdfdf,#fff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#dfdfdf,#fff);}
+.coAdminDashboard .branchdetails .nav-tabs > li > a {border:0 none; min-height:64px; margin-right:0; font-weight:bold; text-align:center; color: #000;padding:10px 1px !important; word-wrap:break-word; font-size:12px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.coAdminDashboard .branchdetails .nav-tabs > li > a {font-size:14.1px; padding:10px 0.9px !important;} 
+	/* Safari only override */
+	::i-block-chrome,.coAdminDashboard .branchdetails .nav-tabs > li {
+     padding:0 10px;
+    }
+    ::i-block-chrome,.coAdminDashboard .branchdetails .nav-tabs > li > a {
+     font-weight:normal;
+    }
+}
+.coAdminDashboard .branchdetails .nav-tabs > li > a:hover {background:none;}
+.coAdminDashboard .branchdetails .nav-tabs > li > a > i { color: #a6a6a6;}
+.coAdminDashboard .branchdetails .nav-tabs > li > a .countbox {background:#FFA800; color:#fff; font-size:12px; padding:4px 12px; margin:2px auto 0; width:48px; border-radius:4px;}
+.coAdminDashboard .branchdetails .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {border-bottom: 4px solid #fbcdcf;}
+.coAdminDashboard .branchdetails .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+  border: 0;background: none !important;color: #333333;}
+.coAdminDashboard .branchdetails .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background:none !important;}
+  
+.coAdminDashboard .branchdetails .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {color: #a6a6a6;}
+.coAdminDashboard .branchdetails .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+  margin-top: 0px;}
+.coAdminDashboard .branchdetails .nav-tabs > li.active { position: relative; background:#404040;}
+.coAdminDashboard .branchdetails .nav-tabs > li.active > a {font-weight:bold;  font-family: 'Roboto-Light'; border: 0;color:#fff;}
+.coAdminDashboard .branchdetails .nav-tabs > li.active > a > i {color: #404040;}
+
+.coAdminDashboard .branchdetails .tab-content {padding-bottom: 0; border-left:1px solid #cacaca; border-right:1px solid #cacaca; border-bottom:1px solid #cacaca}
+.coAdminDashboard .branchdetails .nav-tabs > li:last-child {border-right:0 none;}
+/****Tab Content coAdminDashboard ends here***/
+
+.itemform { display:none;}
+
+
+
+.btn-tab.active {
+    background: #949494;
+    color: #fff;
+}
+.btn:active, .btn.active {
+    background-image: none;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.125) inset;
+    outline: 0 none;
+}
+.btn-tab {
+    background: #fff;
+    border: 1px solid #949494;
+    border-radius: 0 4px 4px 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-list {
+    background: #fff;
+    border: 1px solid #949494;
+    border-radius: 4px 0 0 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-transparent:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/*************** Modified selectbox css here **********************/
+.itemform .nice-select {width:100%; border-radius:0;}
+.itemform .nice-select .list {width:100%; border-radius:0;}
+
+
+
+/*******************************  Restaurant manager popup css here  ******************************************/
+.restomanagement .modal-dialog {width:850px; z-index:9999;}
+.restomanagement .modal-dialog .modal-header {
+background: #494949; /* Old browsers */
+background: -moz-linear-gradient(top,  #494949 0%, #424242 30%, #323232 73%, #2b2b2b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #494949 0%,#424242 30%,#323232 73%,#2b2b2b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #494949 0%,#424242 30%,#323232 73%,#2b2b2b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#494949', endColorstr='#2b2b2b',GradientType=0 ); /* IE6-9 */
+padding:13px; border-bottom:0 none;
+}
+.restomanagement .modal-dialog .modal-body {border:1px solid #949494; padding:30px;}
+.restomanagement .modal-dialog .modal-header .close {color:#fff; float:right; font-size:21px; font-weight:bold; line-height:1; 
+text-shadow:0 1px 0 #fff; opacity:1; background:none; border:0 none; margin:0; padding:0; width:auto;}
+.restomanagement .modal-dialog .modal-header h4 {color:#fff; font-family:'arial, sans-serif'; font-size:13px; padding:0; margin:0; text-align:left;}
+.restomanagement .modal-dialog .modal-body .grey-box {margin:15px 0; border:1px solid #949494; padding:15px;
+background: #f6f6f6; /* Old browsers */
+background: -moz-linear-gradient(top,  #f6f6f6 0%, #f1f1f1 13%, #eaeaea 24%, #dfdfdf 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f6f6f6 0%,#f1f1f1 13%,#eaeaea 24%,#dfdfdf 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f6f6f6 0%,#f1f1f1 13%,#eaeaea 24%,#dfdfdf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#dfdfdf',GradientType=0 ); /* IE6-9 */
+}
+.restomanagement .modal-dialog .modal-body .grey-box .dl-horizontal {margin-bottom:10px;}
+.restomanagement .modal-dialog .modal-body .grey-box .dl-horizontal dt {text-align:left; padding-right:20px; float:left; width:180px;}
+.restomanagement .modal-dialog .modal-body .grey-box .dl-horizontal dd {float:left; margin:0;}
+.restomanagement .modal-dialog .modal-body .genreq {float:left;}
+.restomanagement .modal-dialog .modal-body .genreq h2 {color:#000; font-family:'arial, sans-serif'; font-size:14px; margin:0;}
+.restomanagement .modal-dialog .modal-body .req-dtls {float:right; border:1px solid #a9a9a9; padding:10px;}
+.restomanagement .modal-dialog .modal-body .req-dtls .border-bot {border-bottom:1px solid #565656; margin-bottom:10px; padding-bottom:10px;}
+.restomanagement .modal-dialog .modal-body .req-dtls .dl-horizontal {margin-bottom:10px;}
+.restomanagement .modal-dialog .modal-body .req-dtls .dl-horizontal:last-child {margin-bottom:0;}
+.restomanagement .modal-dialog .modal-body .req-dtls .dl-horizontal dt {text-align:left; padding-right:20px; float:left; width:180px; font-size:13px; line-height:22px;}
+.restomanagement .modal-dialog .modal-body .req-dtls .dl-horizontal dd {float:left; margin:0; font-size:14px;}
+
+
+/*************** Reports page css here **********************/
+.reports {background-color: #fff; border: 1px solid #ddd; margin: 0; padding: 20px;}
+.reports .borderbot {border-bottom:1px solid #ddd; margin-bottom:20px; padding-bottom:15px;}
+.reports .dl-horizontal dt {float:none; text-align:left; font-weight:normal;}
+.reports .dl-horizontal dd {margin-left:0px;}
+.reports .dl-horizontal dd .sbHolder {width:100%; border-radius:5px;}
+.reports .dl-horizontal dd .sbOptions {width:101%;}
+.reports .dl-horizontal dd .form-control {height:38px; border-radius:5px;}
+.reports .dl-horizontal dd .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {background:#fff;}
+
+
+
+.gradientnew {margin:0 20px 0px 0px;}
+
+#searchFrm .col-sm-3{padding-left:11px; padding-right:11px}
+.searchresultbg{background:none}
+.searchresultbg.row{margin-left:-11px;margin-right:-11px;}
+
+.branchdetails .newtabl{border-width:0px 0px 0px 0px; border-left:1px solid #a0a0a0}
+.branchdetails .newtabc{border:0px}
+.branchdetails .newtabl > li{border:1px solid #a0a0a0; border-left:0px; border-bottom:0px; }
+.branchdetails .tabpanelcnt{border:1px solid #a0a0a0; margin-bottom:10px}
+.regcushighh{background:#ff0000!important}
+
+.btn-transparents{border:solid 1px #fff!important; background:none!important; margin-right:8px; margin-top:-7px; color:#fff}
+.orangetext{color:#ffa800}
+
+
+.adminbtn {padding-right: 0px!important; padding-left: 0px!important;}
+.adminbtn .gradientnew{margin-right:0px}
+#myCounter{padding:0 18px; font-size:22px}
+
+#operatoruser .dropdown-menu{background:rgb(67, 136, 205) none repeat scroll 0 0; box-shadow:0px 0px 0px}
+
+
+
+.diet-sec {width:58%; display:inline-block; margin-bottom:10px;}
+.item-sec {width:10%; display:inline-block; margin-bottom:10px;}
+.qty-sec {width:10%; display:inline-block; margin-bottom:10px;}
+.price-sec{width:19%; display:inline-block; text-align:right; margin-bottom:10px;}
+.pro-sec{width:25%; display:inline-block; margin-bottom:10px;}
+.carbo-sec{width:25%; display:inline-block; margin-bottom:10px;}
+.fat-sec{width:25%; display:inline-block; margin-bottom:10px;}
+.cal-sec{width:23%; display:inline-block; margin-bottom:10px;}
+.desc-sec {width:100%; display:block; margin-bottom:10px;}
+
+.waithead {
+background-color: rgb(60, 206, 60);
+    color: rgb(255, 255, 255);
+    padding: 7px 10px 2px 7px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.waithead span {
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    color: rgb(255, 1, 0);
+    margin: -18px 5px 5px 10px;
+    min-width: 30px;
+    width: auto;
+    border-radius: 2px;
+    font-size: 15px;
+    }
+.waithead h1, .waitcellfull h1 {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.button-counter{
+	border: 1px solid #d1d1d1;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: capitalize;
+    background-color: #999999;
+}
+.button-counter:hover{
+	background-color: #999999 !important;
+	border: 1px solid #d1d1d1;
+}
