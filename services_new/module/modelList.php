@@ -1,11 +1,5 @@
 <?php
-// URL : http://192.168.1.51/jeebley/services/services.php?action=register&langId=1&email=rahul@yopmail.com&password=123456&confirmPassword=123456&birthDate=1989-11-06&gender=m&deviceId=1234567895&deviceType=android&newsletterSubscription=y&smsSubscription=y
-
-// Method : POST
-
 header('Content-Type: application/json');
-header('charset: utf-8');
-
 try {
    
         if ($requestMethod == 'GET') {
@@ -18,20 +12,18 @@ try {
 			
                 $modelLists = $brandsObj->getAllModelWithSpecs();
 				
-                ///////////////////////////
 				if (empty($modelLists)) {
 				
 						$arr['response_code']  = 1;							
-							//print_r($menuId);
+						
 							$arr['error'] = "No records in database !!";	
 					   
 					   }
                         else{
 						 foreach($modelLists as $spec=>$value) {
-                        //$value['areaID']
+                       
                         $specArray = $brandsObj->getAllSpecByModelId($value['models_id']);
                         $modelLists[$spec]['specArray'] = $specArray;
-
 							}
 
 						$arr['response_code']  = 0;
@@ -39,8 +31,7 @@ try {
                             						
 							
 						}						
-				////////////////////////////
-         
+			         
             }
          else {
             $arr['response_code'] = 1;
@@ -55,6 +46,5 @@ catch (Exception $e) {
 
 unset($modelsObj);
 
-//echo "<pre>";print_r($modelLists);exit;
 echo json_encode($arr);
 ?>

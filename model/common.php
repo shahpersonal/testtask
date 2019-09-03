@@ -1,1 +1,1 @@
-<?phpclass Model_Common extends Database {    // Constructor    function Model_Common() {        $this->siteSettings = SITESETTINGS;        $this->Database();    }}?>
+<?phpclass Model_Common extends Database {    function Model_Common() {        $this->siteSettings = SITESETTINGS;        $this->Database();    }}?>
